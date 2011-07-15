@@ -1,0 +1,26 @@
+﻿You have decided to implement your own console similar to the
+standard Windows console. Your console has the following
+requirements:
+
+ * The console supports multiple buffers
+ * The console supports viewports, and multiple viewports can
+   be attached to the same buffer.
+ * The console is completely thread-safe, so that writing to a
+   single buffer can be done from multiple threads.
+ * The console supports an API similar to System.Console (i.e.,
+   it supports the Console.Write and WriteLine methods).
+
+Design the API for the console. In designing the API, make sure
+you take care of the following:
+
+ * The API should be usable, i.e., standard configurations
+   (such as a console with a single buffer & viewport of matching
+   size) should be easy to create.
+ * The API should be extensible, so that someone implementing their
+   own buffer would be able to do so.
+ * The API should take care of the fact that people may attempt to
+   enter nonstandard or incorrect parameters (e.g., a viewport larger than the
+   buffer).
+* The API should take care of the fact that people may wish to
+   extend or shrink buffers and vieweports at runtime. The API should
+   make it possible to do this safely.
