@@ -33,13 +33,12 @@ obj/
 [Rr]elease*/
 Ankh.NoLoad
 
+Build/
+
 #Tooling
 _ReSharper*/
 *.resharper
 [Tt]est[Rr]esult*
-
-#Project files
-[Bb]uild/
 
 #Subversion files
 .svn
