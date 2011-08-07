@@ -1,0 +1,95 @@
+﻿<html>
+<head>
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
+    
+    
+    <script type="text/javascript" src="script/webutility.js"></script>
+    <script lang="javascript">var defaultTopic="ActiveMesa.MdxConsole.html";</script>
+    <script lang="javascript">
+
+		var defaultContentPageSet = false;
+		var navFrameVisible = true;
+		var navFrameWidth = "";
+
+		if (isPostMessageEnabled())
+		{
+			addMessageListener(frameMessageHandler);
+		}
+		
+		function frameMessageHandler(event)
+		{
+			var message = getMessage(event.data);
+			
+			switch (message.messageType)
+			{
+				case "togglenavbarvisibility":
+					var colset = document.getElementById("nav");
+					if (navFrameVisible)
+					{
+							navFrameVisible = false;
+							navFrameWidth = colset.cols;
+							colset.cols = "0,*"
+					}
+					else
+					{
+							navFrameVisible = true;
+							colset.cols = navFrameWidth
+					}
+					break;
+				case "loaded":
+					loaded = true;
+					break;
+				case "toolbarloaded":
+					toolbarloaded = true;
+					break;
+			}
+		}
+
+        function documentElement(id){
+            return document.getElementById(id);
+        }
+
+        function getDefaultTopic()
+        {
+			var qs=window.location.search;
+
+			if (qs.length>0)
+				return qs.substring(1);
+			else
+				return defaultTopic;
+        }
+
+		function setDefaultContentPage()
+		{
+			if(!defaultContentPageSet)
+			{
+				window.frames['webcontent'].location.replace(getDefaultTopic());
+				defaultContentPageSet = true;
+			}
+		}
+
+    </script>
+    <style>
+        frame
+        {
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+    <style type=text/css>frame#webcontent {border-left: 3px solid #426bad;}</style>
+</head>
+
+<frameset frameborder="1" bordercolor="#f0f0f0" border="0" rows="29,*">
+    <frame name="webtoolbar" scrolling="no" noresize="noresize" target="webcontent" src="webtoolbar.html" style="border-bottom: 1px solid buttonface;">
+    <frameset frameborder="6" bordercolor="#f0f0f0" border="6" cols="250,*" id="nav" style="cursor: col-resize;">
+        <frame name="webnavbar" target="webcontent" src="webnav.html" onresizeend="ResizeContentElements">
+        <frame id="webcontent" name="webcontent" src="webblank.html" style="border-right: none;" onload="setDefaultContentPage()">
+    </frameset>
+    <noframes>
+        <body>
+            <p>This page uses frames, but your browser doesn't support them.</p>
+        </body>
+    </noframes>
+</frameset>
+
+</html>

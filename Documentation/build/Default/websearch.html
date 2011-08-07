@@ -1,0 +1,84 @@
+﻿<html>
+<head>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+    <style type="text/css">
+        blockquote {
+            margin-top:     0px;
+            margin-bottom:  0px;
+            margin-left:    16px;
+        }
+        body, td {
+            margin:         0;
+            font-family:    Verdana, Arial, Helvetica, sans-serif;
+            font-size:      70%
+        }
+        .searchtitle {
+            font-size:      10pt;
+            font-weight:    bold;
+            margin-top:     0px;
+            margin-bottom:  5px;
+        }
+        .searchresults
+        {
+            margin-top:     0px;
+        }
+        .searchresults td
+        {
+            padding:        2 0 2 0;
+        }
+        .searchresults td.innerrow
+        {
+            border-top:     1px dotted darkgrey;
+        }
+        .searchresults a
+        {
+            text-decoration: none;
+        }
+    </style>
+    <script src="ftsindex.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="script/fts.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="script/webhighlight.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="script/webutility.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <base target="webcontent">
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
+</head>
+
+<body style="margin-top:5;margin-left:5" topmargin="5" leftmargin="5">
+    <div style="display: none">
+        <span id="phrase_Search_SearchResults">
+            Search Results
+        </span>
+        <span id="phrase_Search_ResultCount">
+            results found.
+        </span>
+    </div>
+    <div id="divSearch">
+        <table border="0" id="tblSearch">
+            <tr>
+                <td>Look for:<br>
+                <form style="padding: 0; margin: 0" onsubmit="btnSearch_onclick(); return false;"><input id="txtSearch" type="text" name="txtSearch" value="">&nbsp;
+                <input id="btnSearch" type="button" value="Search" name="btnSearch" language="javascript" onclick="return btnSearch_onclick();"></form></td>
+            </tr>
+
+            <tr>
+                <td>(Words can be combined using OR and AND)</td>
+            </tr>
+            <tr>
+                <td style="margin-left: 0px; padding-left: 0px"><input id="chkHighlightInResults" type="checkbox" checked="true" style="margin-left: -2px;" />Highlight search terms</td>
+            </tr>
+        </table>
+    </div><br>
+    <div id="divSearching" style="display: none">
+        <table id="tblProgress" border="0">
+            <tr>
+                <td>Searching...</td>
+            </tr>
+        </table>
+    </div>
+    <div id="divResults" style="display: none"></div>
+</body>
+</html>

@@ -1,0 +1,649 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+   <param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ActiveMesa.MdxConsole Assembly">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Introduction">
+        <param name="Local" value="ActiveMesa.MdxConsole_introduction.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Getting Started">
+        <param name="Local" value="ActiveMesa.MdxConsole_gettingstarted.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Namespaces">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ActiveMesa.MdxConsole Namespace">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole_namespace.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Classes">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Buffer">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Members">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer_members.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Buffer Constructor">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~_ctor.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Buffer Constructor()">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~_ctor().html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Buffer Constructor(Int32,Int32)">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~_ctor(Int32,Int32).html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Buffer Constructor(Size)">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~_ctor(Size).html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Methods">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer_methods.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Backspace Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Backspace.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fill Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Fill.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fill(Char) Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Fill(Char).html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fill(Char,Int16) Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Fill(Char,Int16).html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="InternalWrite Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~InternalWrite.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="LineWrite Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~LineWrite.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="NewBuffer Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~NewBuffer.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ToString Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~ToString.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Write Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Write.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Write(String) Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Write(String).html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Write(String,Int16) Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Write(String,Int16).html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="WriteLine Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~WriteLine.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Properties">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer_properties.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Editing Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Editing.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="FormatBuffer Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~FormatBuffer.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Full Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Full.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="InsertionLine Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~InsertionLine.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="InsertionPoint Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~InsertionPoint.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Item Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Item.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Size Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~Size.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="StartLine Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Buffer~StartLine.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Console">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Members">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console_members.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Methods">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console_methods.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="AnyConsoleCreated Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~AnyConsoleCreated.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Create Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~Create.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CreateBuffersWithMachingViewports Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~CreateBuffersWithMachingViewports.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="GetAvailableDevices Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~GetAvailableDevices.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Render Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~Render.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="RenderAll Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~RenderAll.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="TakeScreenshot Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~TakeScreenshot.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="WndProc Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~WndProc.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Write Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~Write.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="WriteFormat Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~WriteFormat.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="WriteLine Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~WriteLine.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="WriteLineFormat Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~WriteLineFormat.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Properties">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console_properties.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="BackgroundColor Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~BackgroundColor.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ConsolePixelSize Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~ConsolePixelSize.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CurrentBuffer Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~CurrentBuffer.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CurrentViewport Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~CurrentViewport.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CurrentViewportIndex Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~CurrentViewportIndex.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ForegroundColor Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~ForegroundColor.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="FullScreen Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~FullScreen.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="TexManager Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~TexManager.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Viewports Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~Viewports.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Events">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console_events.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ViewportClicked Event">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Console~ViewportClicked_EV.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ConsoleCreationParameters">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Members">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters_members.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ConsoleCreationParameters Constructor">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~_ctor.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fields">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters_fields.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CharacterHeight Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~CharacterHeight.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CharacterWidth Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~CharacterWidth.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ClientSize Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~ClientSize.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CreateDefaultViewAndBuffer Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~CreateDefaultViewAndBuffer.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="FullScreen Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~FullScreen.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Height Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~Height.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Width Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ConsoleCreationParameters~Width.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="TextureManager">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Members">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager_members.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="TextureManager Constructor">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~_ctor.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Methods">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager_methods.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="AddPreset Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~AddPreset.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="AddPreset(Font,Color,Color) Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~AddPreset(Font,Color,Color).html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="AddPreset(Tuple&lt;Font,Color,Color&gt;) Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~AddPreset(Tuple{Font,Color,Color}).html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Dispose Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~Dispose.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Properties">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager_properties.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CharCount Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~CharCount.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CurrentPreset Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~CurrentPreset.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="DefaultFont Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~DefaultFont.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Item Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TextureManager~Item.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="TexturePreset">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TexturePreset.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TexturePreset.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Members">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TexturePreset_members.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="TexturePreset Constructor">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TexturePreset~_ctor.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fields">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TexturePreset_fields.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Scale Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TexturePreset~Scale.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Textures Field">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.TexturePreset~Textures.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Viewport">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Members">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport_members.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Viewport Constructor">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~_ctor.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Methods">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport_methods.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CoversPoint Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~CoversPoint.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="SetBufferFullSize Method">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~SetBufferFullSize.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Properties">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport_properties.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Buffer Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~Buffer.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="BufferLocation Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~BufferLocation.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ForceShowCaret Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~ForceShowCaret.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Item Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~Item.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ScreenLocation Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~ScreenLocation.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Size Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.Viewport~Size.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ViewportEventArgs">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ViewportEventArgs.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ViewportEventArgs.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Members">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ViewportEventArgs_members.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ViewportEventArgs Constructor">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ViewportEventArgs~_ctor.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Properties">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ViewportEventArgs_properties.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Viewport Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ViewportEventArgs~Viewport.html">
+     </OBJECT>
+<UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="ViewportPoint Property">
+        <param name="Local" value="ActiveMesa.MdxConsole~ActiveMesa.MdxConsole.ViewportEventArgs~ViewportPoint.html">
+     </OBJECT>
+<UL>
+</UL>
+</UL>
+</UL>
+</UL>
+</UL>
+</UL>
+</UL>
+
+</UL>
+</BODY></HTML>
