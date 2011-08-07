@@ -1,10 +1,10 @@
 using System;
 using System.Drawing;
 
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
   /// <summary>
-  /// A viewport is a window into a <see cref="Nesteruk.MdxConsole.Buffer"/>.
+  /// A viewport is a window into a <see cref="MdxConsole.Buffer"/>.
   /// </summary>
   public class Viewport
   {

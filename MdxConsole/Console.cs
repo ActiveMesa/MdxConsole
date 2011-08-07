@@ -1,4 +1,4 @@
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
   using System;
   using System.Collections.Generic;
@@ -539,6 +539,14 @@ namespace Nesteruk.MdxConsole
     public static void RenderAll(Console[] consoles)
     {
       Parallel.ForEach(consoles, c => c.Render());
+    }
+
+    public static IEnumerable<string> GetAvailableDevices()
+    {
+      foreach (AdapterInformation adapter in Manager.Adapters)
+      {
+        yield return string.Format("{0} : {1}", adapter.Adapter, adapter.Information.DeviceName);
+      }
     }
   }
 }

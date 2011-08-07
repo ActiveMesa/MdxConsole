@@ -1,17 +1,10 @@
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
-  internal sealed class Pair<U, V>
+  internal struct Pair<U, V>
   {
     // Fields
     public U First;
     public V Second;
-
-    // Methods
-    public Pair()
-    {
-      First = default(U);
-      Second = default(V);
-    }
 
     public Pair(U first, V second)
     {

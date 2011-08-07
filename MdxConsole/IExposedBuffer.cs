@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
 	public interface IExposedBuffer
 	{

@@ -9,7 +9,7 @@ using System.Linq;
 using Microsoft.DirectX.Direct3D;
 using TextPreset = System.Tuple<System.Drawing.Font,System.Drawing.Color,System.Drawing.Color>;
 
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
   public class TexturePreset
   {

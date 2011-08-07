@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
   /// <summary>
   /// Parameters that define the way the console is created.

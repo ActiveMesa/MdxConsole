@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
   public class NativeMethods
   {

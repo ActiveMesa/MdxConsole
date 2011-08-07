@@ -1,7 +1,7 @@
 using System;
 using System.Drawing;
 
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
   public class ViewportEventArgs : EventArgs
   {

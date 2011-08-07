@@ -4,12 +4,12 @@ using System.Drawing;
 using System.Text;
 using System.Threading;
 
-namespace Nesteruk.MdxConsole
+namespace ActiveMesa.MdxConsole
 {
   /// <summary>
   /// A console buffer.
   /// </summary>
-  public class Buffer : IExposedBuffer
+  public class Buffer
   {
     #region Fields
 
